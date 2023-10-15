@@ -1,0 +1,5 @@
+baseURL = 'https://blog.ruchika.dev/'
+languageCode = 'ja'
+title = 'Blog Ruchika Dev'
+author = 'ruchikawa'
+theme = 'hugo-theme-stack'
