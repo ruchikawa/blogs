@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://blog.ruchika.dev/</loc>
+    <lastmod>2023-10-15T09:46:52+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.ruchika.dev/post/2023101501/</loc>
+    <lastmod>2023-10-15T09:46:52+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.ruchika.dev/post/</loc>
+    <lastmod>2023-10-15T09:46:52+09:00</lastmod>
+  </url><url>
+    <loc>https://blog.ruchika.dev/categories/</loc>
+  </url><url>
+    <loc>https://blog.ruchika.dev/tags/</loc>
+  </url>
+</urlset>
